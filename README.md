@@ -23,4 +23,5 @@ Sequential thinning by use structuring element L
 
 #### Reference
 [1] Image Processing, Analysis, and Machine Vision, Fourth Edition, Milan Sonka, Vaclav Hlavac, Roger Boyle, CENGAGE Learning.
+
 [2] Digital Image Processing, Third Edition, Rafael C. Gonzalez, Richard E. Woods, Pearson.
